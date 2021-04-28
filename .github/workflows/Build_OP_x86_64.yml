@@ -1,7 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Mod: Kenny Apr 2021
+# Mod: Kenny
 #=================================================
 
 name: Build_x86_64
